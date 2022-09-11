@@ -134,3 +134,6 @@ dmypy.json
 .pyre/
 
 NLPproject_readPKL.ipynb
+NLPproject_spojeni_70acc.ipynb
+outputs/.output.txt.swp
+outputs/output.txt
