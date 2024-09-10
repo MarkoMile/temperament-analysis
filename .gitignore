@@ -4,7 +4,7 @@
 *.joblib
 
 #Conference-related files
-NIS/*.*
+NIS/
 
 
 
