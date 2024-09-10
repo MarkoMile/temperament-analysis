@@ -3,3 +3,4 @@ neuralNet/pickle_files/df_odvojeni_vectors.pkl filter=lfs diff=lfs merge=lfs -te
 neuralNet/pickle_files/df_odvojeni.pkl filter=lfs diff=lfs merge=lfs -text
 csv_files/df_spojeni.csv filter=lfs diff=lfs merge=lfs -text
 randomForest/input/mbti_1.csv filter=lfs diff=lfs merge=lfs -text
+randomForest/csv_files/df_spojeni.csv filter=lfs diff=lfs merge=lfs -text
