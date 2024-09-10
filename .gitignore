@@ -3,6 +3,11 @@
 *.csv
 *.joblib
 
+#Conference-related files
+NIS/*.*
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -137,3 +142,9 @@ NLPproject_readPKL.ipynb
 NLPproject_spojeni_70acc.ipynb
 outputs/.output.txt.swp
 outputs/output.txt
+
+# tsv files 
+*.tsv
+
+#backup folders
+backups/
