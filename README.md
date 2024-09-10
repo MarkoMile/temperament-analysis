@@ -49,6 +49,7 @@ Before running the program, make sure you have the following:
 
 * Python 3.x
 * Install the required packages from `requirements.txt`
+* (Optional) Download the required [pickle and csv files](https://mega.nz/folder/fngC0CqT#cB9RBL7uk8aTOa4kaMC8kA), unpack them, and place them in their respective folders.
 
 To install the packages, run the following command:  
 ```pip install -r requirements.txt```
@@ -61,4 +62,4 @@ After installing the packages, you can start executing some of the scripts:
 * Load and evaluate the neural network models by running [NLPproject_model_load.ipynb](neuralNet/NLPproject_model_load.ipynb).
     * The other scripts in the [neuralNet](neuralNet/) folder can be used to train and evaluate models, you can modify them and have fun.
 
-Note: You might need to download some of the pickle/csv files or tweak the code to see all the capabilities of the scripts. If you have any trouble feel free to contact me!
+Note: You might need to download some of the pickle/csv files or tweak the code to see all the capabilities of the scripts. Some of the scripts, like [NLPproject_model_load.ipynb](neuralNet/NLPproject_model_load.ipynb), can be altered to work just by using [NLPproject_df_gen.ipynb](randomForest/NLPproject_df_gen.ipynb) to generate the pickle file and load it (you need to change which pickle file is loaded in the script for this to work). If you have any trouble feel free to contact me!
