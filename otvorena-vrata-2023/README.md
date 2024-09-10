@@ -14,18 +14,18 @@ Here are some select examples.
     <tbody>
         <tr>
             <td align="center">
-                <img src="otvorena-vrata-2023/media/artisan.png" alt="artisan" style="width:100%">
+                <img src="media/artisan.png" alt="artisan" style="width:100%">
             </td>
             <td align="center">
-                <img src="otvorena-vrata-2023/media/guardian.png" alt="guardian" style="width:100%">
+                <img src="media/guardian.png" alt="guardian" style="width:100%">
             </td align="center">
         </tr>
         <tr>
             <td align="center">
-                <img src="otvorena-vrata-2023/media/idealist.png" alt="idealist" style="width:100%">
+                <img src="media/idealist.png" alt="idealist" style="width:100%">
             </td>
             <td align="center">
-                <img src="otvorena-vrata-2023/media/rationalist.png" alt="rationalist" style="width:100%">
+                <img src="media/rationalist.png" alt="rationalist" style="width:100%">
             </td align="center">
         </tr>
     </tbody>
