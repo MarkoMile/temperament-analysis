@@ -16,7 +16,7 @@ The full paper is written in Serbian and was presented at the XXI "A Step Into S
 
 It was also presented at the IEEESTEC 15th Student Projects Conference in November 2023 <br>and published in the proceedings of papers - p. 159-162 ISBN 978-86-6125-257-0.
 
-[Link to the paper](https://ieee.elfak.ni.ac.rs/wp-content/uploads/2022/11/2022.pdf#page=167)
+[Link to the paper](https://markomilenkovic.rs/papers/temperament-analysis-paper.pdf)
 
 # Examples
 
